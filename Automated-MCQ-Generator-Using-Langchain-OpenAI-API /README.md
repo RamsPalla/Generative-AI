@@ -27,5 +27,4 @@ python3 -m streamlit run StreamlitAPP.py
 if you want to add openai api key
 create .env file in your server touch .env
 vi .env #press insert #copy your api key and paste it there #press esc and then :wq and hit enter
-
 go with security and add the inbound rule add the port 8501
